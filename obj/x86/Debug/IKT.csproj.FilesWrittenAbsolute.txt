@@ -1,0 +1,5 @@
+/home/jakub/Plocha/Csharp/projekt/IKT/IKT/IKT/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jakub/Plocha/Csharp/projekt/IKT/IKT/IKT/bin/Debug/IKT.exe.mdb
+/home/jakub/Plocha/Csharp/projekt/IKT/IKT/IKT/bin/Debug/IKT.exe
+/home/jakub/Plocha/Csharp/projekt/IKT/IKT/IKT/obj/x86/Debug/IKT.exe
+/home/jakub/Plocha/Csharp/projekt/IKT/IKT/IKT/obj/x86/Debug/IKT.exe.mdb
