@@ -1,0 +1,6146 @@
+MapWidth 32
+MapHeight 16
+MapBlock 0 0
+Name Řeka
+Tile ≈
+TileBackground Blue
+TileForeground White
+PlayerColor Black
+Height 0
+IsWalkable False
+Print True
+Replaceable False
+Type River
+EndOfMapBlock
+MapBlock 0 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 0 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 3
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 1 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 7
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 1 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 10
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 1 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 3
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 2 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 7
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 2 8
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 2 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 2 14
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 2 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 7
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 3 8
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 3 9
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 3 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 3 13
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 3 14
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 3 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 7
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 4 8
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 4 9
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 4 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 11
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 4 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 4 13
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 4 14
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 4 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 7
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 5 8
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 5 9
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 5 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 11
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 5 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 5 14
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 5 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 7
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 6 8
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 6 9
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 6 10
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 11
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 6 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 6 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 1
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 7 2
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 7 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 4
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 7 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 7
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 7 8
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 7 9
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 7 10
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 11
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 7 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 7 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 1
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 8 2
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 8 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 4
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 8 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 10
+Name Dungeon
+Tile ᚙ
+TileBackground Green
+TileForeground Black
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 8 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 8 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 1
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 9 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 9 14
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 9 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 10
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 10 14
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 10 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 11 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 12 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 12 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 10
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 13 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 13 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 10
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 14 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 15 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 13
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 16 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 16 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 9
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 17 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 17 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 17 13
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 17 14
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 17 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 9
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 18 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 18 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 18 13
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 18 14
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 18 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 19 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 19 13
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 19 14
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 19 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 0
+Name Řeka
+Tile ≈
+TileBackground Blue
+TileForeground White
+PlayerColor Black
+Height 0
+IsWalkable False
+Print True
+Replaceable False
+Type River
+EndOfMapBlock
+MapBlock 20 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 5
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 20 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 20 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 20 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 5
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 21 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 10
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 21 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 21 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 5
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 22 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 22 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 5
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 23 6
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 10
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 13
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 23 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 4
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 5
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 8
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 24 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 12
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 24 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 24 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 5
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 8
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 25 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 10
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 12
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 25 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 25 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 0
+Name Řeka
+Tile ≈
+TileBackground Blue
+TileForeground White
+PlayerColor Black
+Height 0
+IsWalkable False
+Print True
+Replaceable False
+Type River
+EndOfMapBlock
+MapBlock 26 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 3
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 26 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 5
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 26 6
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 26 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 26 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 3
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 27 4
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 27 5
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 27 6
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 27 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 27 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 27 15
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 3
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 28 4
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 28 5
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 28 6
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 28 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 28 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 28 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 0
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 1
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 4
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 29 5
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 29 6
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 29 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 8
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 9
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 29 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 14
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 29 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 0
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 1
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 2
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 3
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 5
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 30 6
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 30 7
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 10
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 30 11
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 12
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 30 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 0
+Name Řeka
+Tile ≈
+TileBackground Blue
+TileForeground White
+PlayerColor Black
+Height 0
+IsWalkable False
+Print True
+Replaceable False
+Type River
+EndOfMapBlock
+MapBlock 31 1
+Name Řeka
+Tile ≈
+TileBackground Blue
+TileForeground White
+PlayerColor Black
+Height 0
+IsWalkable False
+Print True
+Replaceable False
+Type River
+EndOfMapBlock
+MapBlock 31 2
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 3
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 4
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 5
+Name Hory
+Tile ⛰
+TileBackground White
+TileForeground DarkGray
+PlayerColor Black
+Height 3
+IsWalkable False
+Print True
+Replaceable False
+Type LandscapeExtended
+EndOfMapBlock
+MapBlock 31 6
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 31 7
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 8
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 9
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 10
+Name Hory
+Tile  
+TileBackground White
+TileForeground White
+PlayerColor Black
+Height 3
+IsWalkable False
+Print False
+Replaceable False
+Type Landscape
+EndOfMapBlock
+MapBlock 31 11
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 12
+Name Planiny
+Tile ░
+TileBackground Green
+TileForeground White
+PlayerColor Black
+Height 1
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 13
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 14
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock
+MapBlock 31 15
+Name Pahorkatiny
+Tile ▒
+TileBackground DarkGreen
+TileForeground DarkYellow
+PlayerColor Black
+Height 2
+IsWalkable True
+Print True
+Replaceable True
+Type Landscape
+EndOfMapBlock

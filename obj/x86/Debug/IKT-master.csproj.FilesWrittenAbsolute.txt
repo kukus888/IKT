@@ -1,0 +1,5 @@
+/home/jakub/Plocha/IKT-master/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jakub/Plocha/IKT-master/bin/Debug/IKT-master.exe.mdb
+/home/jakub/Plocha/IKT-master/bin/Debug/IKT-master.exe
+/home/jakub/Plocha/IKT-master/obj/x86/Debug/IKT-master.exe
+/home/jakub/Plocha/IKT-master/obj/x86/Debug/IKT-master.exe.mdb

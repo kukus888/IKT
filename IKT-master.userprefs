@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="IKT-master.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="grafika.cs">
+    <Files>
+      <File FileName="Program.cs" Line="341" Column="1" />
+      <File FileName="grafika.cs" Line="365" Column="9" />
+      <File FileName="promenne.cs" Line="257" Column="29" />
+      <File FileName="mramor.cs" Line="1" Column="1" />
+      <File FileName="tridainventar.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="grafika.cs" line="60" offsetX="326" offsetY="944" expression="posunuti" liveUpdate="False" />
+    <Watch file="grafika.cs" line="50" offsetX="374" offsetY="784" expression="psatHP" liveUpdate="False" />
+    <Watch file="grafika.cs" line="46" offsetX="590" offsetY="720" expression="HPall" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
